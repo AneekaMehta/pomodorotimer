@@ -1,6 +1,24 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is a simple pomodoro-todo application with two functions, an old project to get started with react with a retro yet simplistic and cute aesthetic.
+
+# Pomodoro Timer
+Classic Pomodoro timer. 
+Press the play button to play or pause the timer. The alarm will sound after it reaches zero.
+Press the next button to move on to the next stage.
+
+There is no reset or time adjustment mode for now as this is for personal restrictive use without lee-way.
+
+The settings button is to switch between the to-do list and pomodoro timer.
+
+# To-do List
+Simple to do list with CRUD application but without Update. Will add it in the future.
+C- Type and add upto 5 tasks at a time.
+R- See the 5 tasks listed.
+U- Yet to be fulfilled.
+D- Delete once completed using the cross button next to the task.
+
+Enjoy~~~~~~~
 
 ## Available Scripts
 
